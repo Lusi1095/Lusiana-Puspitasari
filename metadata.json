@@ -1,0 +1,6 @@
+{
+  "name": "EkoMoneter - Kebijakan Moneter SMA Kelas 11",
+  "description": "Portal pembelajaran interaktif materi Kebijakan Moneter di Indonesia untuk siswa SMA Kelas 11 dilengkapi simulasi Gubernur Bank Indonesia, materi kurikulum merdeka, jalur transmisi, dan kuis asesmen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
